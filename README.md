@@ -8,7 +8,7 @@
 |	Debian  	   |    9      |   ❌    |
 |				   |   10      |   ❌   |
 
-Recuerda cambiar la contraseña de [Mysql](https://github.com/MizuThz/Pterodactyl-install-script/blob/main/mysql.sh)
+Remember to change the fassword from [Mysql](https://github.com/MizuThz/Pterodactyl-install-script/blob/main/mysql.sh)
 
 # Panel
 
