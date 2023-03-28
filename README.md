@@ -33,7 +33,7 @@ cd /var/www/pterodactyl ; sh wings_AMD64.sh
 cd /var/www/pterodactyl ; sh wings_ARM64_AARCH64.sh
 ```
 
-## Borrar archivos
+## Delete Files
 ```bash
 cd /var/www/pterodactyl ; sh remove_files.sh
 ```
